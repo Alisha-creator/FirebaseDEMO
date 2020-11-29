@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631887429541",
+    "firebase_url": "https://fir-demo-91246.firebaseio.com",
+    "project_id": "fir-demo-91246",
+    "storage_bucket": "fir-demo-91246.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631887429541:android:e2372b8abfd1ebbf32f24c",
+        "android_client_info": {
+          "package_name": "alisha.digipodium.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631887429541-6qlktcmot4e39j7ub8q5ci7bhghtvgev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdMD3D-h6g_bCyrP6URHpQbNhEC4Tra6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631887429541-6qlktcmot4e39j7ub8q5ci7bhghtvgev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
